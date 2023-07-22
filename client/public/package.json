@@ -1,0 +1,21 @@
+{
+        "name": "sociomedia",
+        "version": "1.0.0",
+        "description": "",
+        "scripts": {
+            "build": "echo \"No build specified\" && exit 1",
+            "test": "echo \"No test specified\" && exit 1",
+            "start": "node index.js"
+        },
+        "repository": {
+            "type": "git",
+            "url": "git+https://github.com/Amithaa02/sociomedia.git"
+        },
+        "author": "",
+        "license": "ISC",
+        "bugs": {
+            "url": "https://github.com/Amithaa02/sociomedia/issues"
+        },
+        "homepage": "https://github.com/Amithaa02/sociomedia#readme"
+    }
+    
