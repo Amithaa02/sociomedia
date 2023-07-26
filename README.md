@@ -1,3 +1,4 @@
+![Screenshot (202)](https://github.com/Amithaa02/sociomedia/assets/127115835/3e60c415-9c5d-4069-b3e3-ca3ec0145447)
 COMPLETE Fullstack Responsive MERN App with Auth, Likes, Dark Mode | React, MongoDB, MUI
 
 ![Screenshot (162)](https://github.com/Amithaa02/sociomedia/assets/127115835/ce31810a-9e54-4cbd-8553-697e24c9be96)
@@ -16,3 +17,5 @@ COMPLETE Fullstack Responsive MERN App with Auth, Likes, Dark Mode | React, Mong
 ![Uploading Screenshot (165).png…]()
 ![Uploading Screenshot (164).png…]()
 ![Uploading Screenshot (163).png…]()
+![Uploading Screenshot (201).png…]()
+![Uploading Screenshot (200).png…]()
